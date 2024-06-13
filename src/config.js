@@ -85,28 +85,28 @@ export default {
   },
   // page5部分
   page5: [{
-    title: '508工作室',
-    content: '晋城职业技术学院508工作室独立站点的维护',
+    title: '豆瓣',
+    content: '一个书影音存档平台',
     image: 'box1.png',
     href: 'https://lab508.gitee.io/'
   }, {
-    title: '图书管理系统',
-    content: 'Vue,NodeJs图书管理系统前后端',
+    title: '小红书',
+    content: '当代年轻人搜索引擎',
     image: 'box3.jpg',
     href: 'https://gitee.com/wttAndroid/book_admin'
   }, {
-    title: '校园约吧',
-    content: 'Vue,NodeJs移动端校园项目前后端',
+    title: '哔哩哔哩',
+    content: '00后网上冲浪平台',
     image: 'box5.jpg',
     href: 'https://gitee.com/wttAndroid/xyy_server'
   }, {
-    title: '蘑菇街',
-    content: 'Vue蘑菇街商城案例前端',
+    title: '并夕夕',
+    content: '消费降级购物平台',
     image: 'box2.png',
     href: 'https://github.com'
   }, {
-    title: '个人简历',
-    content: 'html,css,jq,bootsrap搭建个人简历网站',
+    title: '不凡的一片自留地',
+    content: '--',
     image: 'box4.png',
     href: ''
   }, {
@@ -121,7 +121,7 @@ export default {
     bili: '',
     email: 'Mailto:10086@qq.com?Subject=邮箱标题&Body=邮箱内容！',
     zhihu: '',
-    weixin: "<img style='width:120px' src='http://wttandroid.gitee.io/wttandroid.github.io/src/img/weix.jpg' alt='加载失败'>",
-    qq: "<img style='width:120px' src='http://wttandroid.gitee.io/wttandroid.github.io/src/img/qq.jpg' alt='加载失败'>"
+    weixin: "<img style='width:120px' src='http://wttandroid.gitee.io/wttandroid.github.io/src/img/page1.jpg' alt='加载失败'>",
+    qq: "<img style='width:120px' src='http://wttandroid.gitee.io/wttandroid.github.io/src/img/page2.jpg' alt='加载失败'>"
   }
 }
