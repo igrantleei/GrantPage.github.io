@@ -7,7 +7,7 @@ export default {
   // page2部分
   page2: {
     authorImg: 'page1.jpg', // 作者头像
-    xinhui: 'I'm Grant，是职场新人。', // 幸会
+    xinhui: 'I am Grant，是职场新人。', // 幸会
     qiuzhi: '自由职业者', // 求职意向
     guanyuwo: '周末一般有空会出门闲逛，最近在学习专业户外技能，每周去爬山。雨天喜欢在家看闲书，听有氛围感的音乐，比如爵士，萨克斯、看书看累了就锻炼一下，然后自己做一顿好吃的饭，再找一部纪录片，简直完美周末' // 关于我
   },
@@ -98,7 +98,7 @@ export default {
     title: '哔哩哔哩',
     content: '00后网上冲浪平台',
     image: 'box5.jpg',
-    href: 'https://gitee.com/wttAndroid/xyy_server'
+    href: 'bilibili.com'
   }, {
     title: '并夕夕',
     content: '消费降级购物平台',
