@@ -6,7 +6,7 @@ export default {
   },
   // page2部分
   page2: {
-    authorImg: 'page1.jpg', // 作者头像
+    authorImg: 'Profile.jpg', // 作者头像
     xinhui: 'I am Grant，是职场新人。', // 幸会
     qiuzhi: '自由职业者', // 求职意向
     guanyuwo: '周末一般有空会出门闲逛，最近在学习专业户外技能，每周去爬山。雨天喜欢在家看闲书，听有氛围感的音乐，比如爵士，萨克斯、看书看累了就锻炼一下，然后自己做一顿好吃的饭，再找一部纪录片，简直完美周末' // 关于我
@@ -87,39 +87,39 @@ export default {
   page5: [{
     title: '豆瓣',
     content: '一个书影音存档平台',
-    image: 'box1.png',
-    href: 'https://lab508.gitee.io/'
+    image: 'db.png',
+    href: 'https://www.douban.com'
   }, {
     title: '小红书',
     content: '当代年轻人搜索引擎',
-    image: 'box3.jpg',
-    href: 'https://gitee.com/wttAndroid/book_admin'
+    image: 'xhs.jpg',
+    href: 'https://www.xiaohongshu.com/explore'
   }, {
     title: '哔哩哔哩',
     content: '00后网上冲浪平台',
-    image: 'box5.jpg',
+    image: 'bili.jpg',
     href: 'bilibili.com'
   }, {
-    title: '并夕夕',
-    content: '消费降级购物平台',
-    image: 'box2.png',
+    title: '12306',
+    content: '出行购票平台',
+    image: '12306.png',
     href: 'https://github.com'
   }, {
     title: '不凡的一片自留地',
     content: '--',
-    image: 'box4.png',
+    image: 'rsv1.png',
     href: ''
   }, {
-    title: '二维码生成器',
-    content: 'Android二维码生成器',
-    image: 'box6.jpeg',
+    title: '预留',
+    content: '预留',
+    image: 'rsv2.jpeg',
     href: ''
   }],
   // page6部分
   page6: {
     github: 'https://github.com/igrantleei',
-    bili: '',
-    email: 'Mailto:10086@qq.com?Subject=邮箱标题&Body=邮箱内容！',
+    bili: 'bilibili.com',
+    email: 'Mailto:i_liguang@163.com?Subject=邮箱标题&Body=邮箱内容！',
     zhihu: '',
     weixin: "<img style='width:120px' src='http://wttandroid.gitee.io/wttandroid.github.io/src/img/page1.jpg' alt='加载失败'>",
     qq: "<img style='width:120px' src='http://wttandroid.gitee.io/wttandroid.github.io/src/img/page2.jpg' alt='加载失败'>"
